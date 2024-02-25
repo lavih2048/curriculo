@@ -6,6 +6,8 @@ O projeto tem como objetivo montar nossa primeira página web que será a replic
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
+Meu deploy do projeto: https://lavih2048.github.io/curriculo/
+
 
 **Fork do projeto:** 
 
